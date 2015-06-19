@@ -12,7 +12,7 @@ Candy News is mobile web application that allows the user to browse through a li
 
 4. To create redirection to [Candy Space] (http://www.candyspace.com/) website from desktop view I used JAVASCRIPT redirection property.
 
-[View demo](http://www.maratwebdev.com/candynews/).
+[View demo](http://maratwebdev.com/candyspace).
 
 
 Author
